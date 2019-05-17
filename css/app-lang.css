@@ -1,0 +1,7 @@
+span .com {color:green;}
+.language-php span.pln {color: #00b8e2;}
+.language-php span.str {color: #b35f5f;}
+
+
+/* apatchi */
+.language-apache span.typ {color: #4883af;}
