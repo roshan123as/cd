@@ -1,7 +1,17 @@
-span .com {color:green;}
+span.com {color:green;}
+span.tag {
+    font-size: 12px !important;
+    color: #3379ad;
+}
+span.atv {
+    color: indianred;
+}
+span.atn {
+    color: #114d65;
+}
 
 /* php */
-.language-php span.pln {color: #00b8e2;}
+.language-php span.pln {color: #1e9ff2;}
 .language-php span.str {color: #b35f5f;}
 
 
